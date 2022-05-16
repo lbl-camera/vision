@@ -37,8 +37,8 @@ Computer vision algorithms, visualization pipelines, multiple views from image d
     <td>
      <p>
       Vision
-      <li> <a href='bit.ly/idealdatascience'>Daniela Ushizima </a>
-      <li> Date: 2021-2022
+      <li> <b>Daniela Ushizima </b>
+      <li> Date: 2019-2022
       <li> Time: 24hrs
       </td>
  </tr>
