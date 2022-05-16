@@ -45,7 +45,8 @@ Computer vision algorithms, visualization pipelines, multiple views from image d
 </table>
 
 ## Tutorials:
-- Run examples [jupyter notebook](https://github.com/BIDS/ISVC2019) in a google colab
+- Run [jupyter notebook](https://github.com/BIDS/ISVC2019) using Google Colab
+- How to use [dask, jupyter, itk, scikit-image, xarray, zarr, itkwidgets](https://github.com/dani-lbnl/SC20_pyHPC) to inspect and segment microtomography images
 - Convert data types [rsml2image](https://github.com/dani-lbnl/rsml2image)
 - Experiments using public data sets [gdrive](https://drive.google.com/drive/folders/19YiBCQh4Z1LB9iCVWfDj4Zfx-zn-VD16?usp=sharing)
 
