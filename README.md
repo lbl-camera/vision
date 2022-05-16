@@ -44,10 +44,11 @@ Computer vision algorithms, visualization pipelines, multiple views from image d
  </tr>
 </table>
 
-## Tutorials:
-- Run [jupyter notebook](https://github.com/BIDS/ISVC2019) using Google Colab
-- How to use [dask, jupyter, itk, scikit-image, xarray, zarr, itkwidgets](https://github.com/dani-lbnl/SC20_pyHPC) to inspect and segment microtomography images
-- Convert data types [rsml2image](https://github.com/dani-lbnl/rsml2image)
+## Tutorials with code
+- Run skimage, sklearn [jupyter notebooks](https://github.com/BIDS/ISVC2019) using Google Colab
+- How to use [dask, jupyter, itk, xarray, zarr, itkwidgets](https://github.com/dani-lbnl/SC20_pyHPC) to inspect and segment microtomography images
+- Convert data types for plant root analysis [rsml2image](https://github.com/dani-lbnl/rsml2image)
+- U-nets for [lung](https://www.nature.com/articles/s41598-021-95561-y) segmentation and [ceramic matrix composites](https://www.nature.com/articles/s41597-022-01119-6) 
 - Experiments using public data sets [gdrive](https://drive.google.com/drive/folders/19YiBCQh4Z1LB9iCVWfDj4Zfx-zn-VD16?usp=sharing)
 
 <!-- ABOUT THE PROJECT -->
