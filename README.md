@@ -36,7 +36,7 @@ Computer vision algorithms, visualization pipelines, multiple views from image d
     </td>
     <td>
      <p>
-      ecoCAM <a href='https://drive.google.com/file/d/1Avmxcra6m8vTBw4tivdKFd4vGm5wBCB4/view?usp=sharing'>[pdf]</a>
+      Vision <a href='https://drive.google.com/file/d/1Avmxcra6m8vTBw4tivdKFd4vGm5wBCB4/view?usp=sharing'>[pdf]</a>
       <li> <a href='bit.ly/idealdatascience'>Daniela Ushizima </a>
       <li> Date: 2021-2022
       <li> Time: 24hrs
@@ -44,12 +44,10 @@ Computer vision algorithms, visualization pipelines, multiple views from image d
  </tr>
 </table>
 
-## How to:
-
-### Root:
-- Run exploreRootScan [jupyter notebook](code/ecocam_exploreRootScan.ipynb) in a google colab
-- Turn rsml into an image with [rsml2image](https://github.com/dani-lbnl/rsml2image)
-- Experiments using public data [gdrive](https://drive.google.com/drive/folders/19YiBCQh4Z1LB9iCVWfDj4Zfx-zn-VD16?usp=sharing)
+## Tutorials:
+- Run examples [jupyter notebook](https://github.com/BIDS/ISVC2019) in a google colab
+- Convert data types [rsml2image](https://github.com/dani-lbnl/rsml2image)
+- Experiments using public data sets [gdrive](https://drive.google.com/drive/folders/19YiBCQh4Z1LB9iCVWfDj4Zfx-zn-VD16?usp=sharing)
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
