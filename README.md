@@ -28,18 +28,17 @@
 
 
 # Vision
-Computer vision algorithms, visualization pipelines, multiple views from image data
+This page contains a list of tutorials about computer vision algorithms, visualization pipelines, multiple views from image data as created <b> by Daniela Ushizima</b> in collaboration with members of [CAMERA](https://camera.lbl.gov/).
+
+## Registration, CNNs, and 3D segmentations
 
 <table border="0">
  <tr>
-    <td><img src="https://github.com/dani-lbnl/introvision/blob/main/cameracomputervision.png" width="300">
+    <td><img src="https://github.com/dani-lbnl/introvision/blob/main/cameracomputervision.png" width="1200">
     </td>
     <td>
      <p>
-      Vision
-      <li> <b>Daniela Ushizima </b>
-      <li> Date: 2019-2022
-      <li> Time: 24hrs
+      DOE research across a myriad of science domains are reliant on image-based data from experiments. This work contains machine learning algorithms based on CNNs such as U-net, Tiramisu, Y-net for semantic segmentation, and many more for image classification, such as VGGs, ResNets, Xception. These have been applied to different scientific problems, where information was hidden in data from X-ray and neutron-based imaging, and electron microscopy. The CAMERA Computer Vision team and collaborators have worked together toward delivering a new modus operandi for analyzing results of experiments conducted at LBNL and other DOE facilities, providing insight to guide and optimize experiments. To better exploit the scientific value of a broad array of high resolution, multidimensional datasets, we have created scientific procedures based on dask, jupyter, itk, xarray, zarr, itkwidgets, Tensorflow, pytorch to measure microstructures  and track materials deformation during lapsing experiments. In addition, we have explored Natural Language Processing (NLP) frameworks such as NLK, Spacy, BERTopic to augment image-based knowledge with topics mined from literature. Some of these applications are discussed below.  
       </td>
  </tr>
 </table>
@@ -52,16 +51,19 @@ Computer vision algorithms, visualization pipelines, multiple views from image d
 - Experiments using public data sets [gdrive](https://drive.google.com/drive/folders/19YiBCQh4Z1LB9iCVWfDj4Zfx-zn-VD16?usp=sharing)
 
 <!-- ABOUT THE PROJECT -->
-## About The Project
+<!--## About The Project-->
 
 ## Acknowledgements:
 - Hari Krishnan
 - Alex Hexemer
+- Mudit Mangal
+- Silvia Miramontes
 - Dula Parkinson
 - David Perlmutter
 - Jerome Quenum
 - James Sethian
 - Alexandre Siqueira
+- Stephan van der Walt
 
 
 
