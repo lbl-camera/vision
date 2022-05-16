@@ -54,6 +54,14 @@ Computer vision algorithms, visualization pipelines, multiple views from image d
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
+## Acknowledgements:
+- Hari Krishnan
+- Alex Hexemer
+- Dula Parkinson
+- David Perlmutter
+- Jerome Quenum
+- James Sethian
+- Alexandre Siqueira
 
 
 
