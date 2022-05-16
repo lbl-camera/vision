@@ -34,7 +34,7 @@ This page contains a list of tutorials about computer vision algorithms, visuali
 
 <table border="0">
  <tr>
-    <td><img src="https://github.com/dani-lbnl/introvision/blob/main/cameracomputervision.png" width="1200">
+    <td><img src="https://github.com/dani-lbnl/introvision/blob/main/cameracomputervision.png" width="1300">
     </td>
     <td>
      <p>
@@ -44,7 +44,8 @@ This page contains a list of tutorials about computer vision algorithms, visuali
 </table>
 
 ## Tutorials with code
-- Run skimage, sklearn [jupyter notebooks](https://github.com/BIDS/ISVC2019) using Google Colab
+- Lecture at [Zeiss Berkeley Brain Microscopy Innovation Center, UC Berkeley](https://github.com/dani-lbnl/2017_ucberkeley_course)
+- Run skimage, sklearn [jupyter notebooks](https://github.com/dani-lbnl/isvc2019) locally or using Google Colab
 - How to use [dask, jupyter, itk, xarray, zarr, itkwidgets](https://github.com/dani-lbnl/SC20_pyHPC) to inspect and segment microtomography images
 - Convert data types for plant root analysis [rsml2image](https://github.com/dani-lbnl/rsml2image)
 - U-nets for [lung](https://www.nature.com/articles/s41598-021-95561-y) segmentation and [ceramic matrix composites](https://www.nature.com/articles/s41597-022-01119-6) 
@@ -54,8 +55,8 @@ This page contains a list of tutorials about computer vision algorithms, visuali
 <!--## About The Project-->
 
 ## Acknowledgements:
-- Hari Krishnan
 - Alex Hexemer
+- Hari Krishnan
 - Mudit Mangal
 - Silvia Miramontes
 - Dula Parkinson
