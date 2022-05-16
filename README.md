@@ -36,7 +36,7 @@ Computer vision algorithms, visualization pipelines, multiple views from image d
     </td>
     <td>
      <p>
-      Vision <a href='https://drive.google.com/file/d/1Avmxcra6m8vTBw4tivdKFd4vGm5wBCB4/view?usp=sharing'>[pdf]</a>
+      Vision
       <li> <a href='bit.ly/idealdatascience'>Daniela Ushizima </a>
       <li> Date: 2021-2022
       <li> Time: 24hrs
