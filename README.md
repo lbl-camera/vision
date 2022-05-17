@@ -47,6 +47,7 @@ This page contains a list of tutorials about computer vision algorithms, visuali
 - Lecture at [Zeiss Berkeley Brain Microscopy Innovation Center, UC Berkeley](https://github.com/dani-lbnl/2017_ucberkeley_course)
 - Run skimage, sklearn [jupyter notebooks](https://github.com/dani-lbnl/isvc2019) locally or using Google Colab
 - How to use [dask, jupyter, itk, xarray, zarr, itkwidgets](https://github.com/dani-lbnl/SC20_pyHPC) to inspect and segment microtomography images
+- 3D image processing with [dask at NERSC](https://github.com/dani-lbnl/SC20_pyHPC/tree/master/nersc)
 - Convert data types for plant root analysis [rsml2image](https://github.com/dani-lbnl/rsml2image)
 - U-nets for [lung](https://www.nature.com/articles/s41598-021-95561-y) segmentation and [ceramic matrix composites](https://www.nature.com/articles/s41597-022-01119-6) 
 - Experiments using public data sets [gdrive](https://drive.google.com/drive/folders/19YiBCQh4Z1LB9iCVWfDj4Zfx-zn-VD16?usp=sharing)
