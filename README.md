@@ -52,6 +52,7 @@ This page contains a list of tutorials about computer vision algorithms, visuali
 - U-nets for [lung](https://www.nature.com/articles/s41598-021-95561-y) segmentation and [ceramic matrix composites](https://www.nature.com/articles/s41597-022-01119-6) 
 - Experiments using public data sets [gdrive](https://drive.google.com/drive/folders/19YiBCQh4Z1LB9iCVWfDj4Zfx-zn-VD16?usp=sharing)
 - Introduction to [Computer Vision](https://github.com/dani-lbnl/introvision)
+- Intro to [Testing](https://bids.github.io/2015-12-14-berkeley/lessons/python/testing.html)
 
 <!-- ABOUT THE PROJECT -->
 <!--## About The Project-->
